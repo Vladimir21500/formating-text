@@ -1,14 +1,16 @@
-html{
+*{
+    box-sizing: border-box;
     margin: 32px;
     font-family: Roboto, sans-serif;
     font-size: 18px;
+    font-weight: 400;
 }
-h1{
+.name{
     word-spacing: 20px;
     text-align: center;
     text-transform: uppercase;
 }
-p{
+.article{
     line-height: 28px;
 }
 .technology{
@@ -19,7 +21,7 @@ p{
     opacity: 0.8;
     text-decoration: underline;
 }
-a{
+.wiki{
     text-decoration: none;
     margin: 0px;
 }
