@@ -12,6 +12,7 @@ p{
     line-height: 28px;
 }
 .technology{
+    margin: 0px;
     font-weight: 900;
     letter-spacing: 3px;
     font-size: 24px;
@@ -20,7 +21,9 @@ p{
 }
 a{
     text-decoration: none;
+    margin: 0px;
 }
 .translate{
     color: grey;
+    margin: 0px;
 }
