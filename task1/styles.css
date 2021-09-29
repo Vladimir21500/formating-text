@@ -1,11 +1,12 @@
 *{
     box-sizing: border-box;
-    margin: 32px;
     font-family: Roboto, sans-serif;
     font-size: 18px;
-    font-weight: 400;
 }
-h1{
+.content{
+    margin: 32px;
+}
+.name{
     word-spacing: 20px;
     text-align: center;
     text-transform: uppercase;
